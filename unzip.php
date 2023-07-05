@@ -1,5 +1,5 @@
 <?php
-$file = 'phpMyAdmin.zip';
+$file = 'file.zip';
 
 // get the absolute path to $file
 $path = pathinfo(realpath($file), PATHINFO_DIRNAME);
